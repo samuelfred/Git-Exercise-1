@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/Hannah-Wehipeihana/Git-Exercise/issues"
   },
-  "homepage": "https://github.com/Hannah-Wehipeihana/Git-Exercise#readme"
+  "homepage": "https://github.com/Hannah-Wehipeihana/Git-Exercise#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
 }
